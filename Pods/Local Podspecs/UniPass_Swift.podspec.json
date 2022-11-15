@@ -1,0 +1,27 @@
+{
+  "name": "UniPass_Swift",
+  "version": "0.0.1",
+  "summary": "UniPass swift lib",
+  "description": "UniPass swift",
+  "homepage": "https://github.com/UniPassID",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "leven": "isrealleven@gmail.com"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source": {
+    "git": "git@github.com:UniPassID/unipass-flutter-web-sdk.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "UniPass_Swift/Sources/**/*.{h,m,swift}",
+  "dependencies": {
+    "Web3": [
+      "0.4.2"
+    ]
+  }
+}

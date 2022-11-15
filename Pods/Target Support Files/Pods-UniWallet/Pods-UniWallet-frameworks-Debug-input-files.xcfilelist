@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-UniWallet/Pods-UniWallet-frameworks.sh
+${BUILT_PRODUCTS_DIR}/BigInt/BigInt.framework
+${BUILT_PRODUCTS_DIR}/CryptoSwift/CryptoSwift.framework
+${BUILT_PRODUCTS_DIR}/UniPass_Swift/UniPass_Swift.framework
+${BUILT_PRODUCTS_DIR}/Web3/Web3.framework
+${BUILT_PRODUCTS_DIR}/secp256k1.swift/secp256k1.framework

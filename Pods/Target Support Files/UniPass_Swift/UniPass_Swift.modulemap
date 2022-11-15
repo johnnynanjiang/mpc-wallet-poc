@@ -1,0 +1,6 @@
+framework module UniPass_Swift {
+  umbrella header "UniPass_Swift-umbrella.h"
+
+  export *
+  module * { export * }
+}

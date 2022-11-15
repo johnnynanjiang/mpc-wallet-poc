@@ -1,0 +1,45 @@
+PODS:
+  - BigInt (4.0.0)
+  - CryptoSwift (1.6.0)
+  - secp256k1.swift (0.1.4)
+  - UniPass_Swift (0.0.1):
+    - Web3 (= 0.4.2)
+  - Web3 (0.4.2):
+    - Web3/Core (= 0.4.2)
+    - Web3/HTTPExtension (= 0.4.2)
+  - Web3/Core (0.4.2):
+    - BigInt (~> 4.0)
+    - CryptoSwift (~> 1.0)
+    - secp256k1.swift (~> 0.1)
+  - Web3/HTTPExtension (0.4.2):
+    - Web3/Core
+
+DEPENDENCIES:
+  - "UniPass_Swift (from `git@github.com:LevenWin/UniPass-Swift.git`)"
+
+SPEC REPOS:
+  trunk:
+    - BigInt
+    - CryptoSwift
+    - secp256k1.swift
+    - Web3
+
+EXTERNAL SOURCES:
+  UniPass_Swift:
+    :git: "git@github.com:LevenWin/UniPass-Swift.git"
+
+CHECKOUT OPTIONS:
+  UniPass_Swift:
+    :commit: 490a08164b348d904f5e0e2dc6b804c13f1a5b81
+    :git: "git@github.com:LevenWin/UniPass-Swift.git"
+
+SPEC CHECKSUMS:
+  BigInt: 2aad1a9942dc932ec8b84290d2c564a3d76f97ab
+  CryptoSwift: 562f8eceb40e80796fffc668b0cad9313284cfa6
+  secp256k1.swift: a7e7a214f6db6ce5db32cc6b2b45e5c4dd633634
+  UniPass_Swift: 565adf6caed95eb5973dc460e9738410740d4e52
+  Web3: 7b2c30f98f24cc290bc671ab525d7a30a2afbc73
+
+PODFILE CHECKSUM: 5f984553b4178a839da76f1763e864ba3cc89418
+
+COCOAPODS: 1.11.0
